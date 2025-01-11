@@ -33,5 +33,5 @@ Experience the course roadmap: [Zero to ML Engg](https://ml-roadmap-nine.vercel.
 
 ## Contributing
 
-We welcome contributions from everyone. Please read our [contributing guide](./CONTRIBUTING.md) to get started.
+We welcome contributions from everyone. 
 
