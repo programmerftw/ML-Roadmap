@@ -1,0 +1,22 @@
+
+# Getting Starting
+
+Follow these steps to set up the project on your local machine.
+
+## Installation
+
+ **Clone the repository**
+
+ Begin by cloning the repository and navigating into the project folder:
+
+   ```bash
+   git clone https://github.com/programmerftw/ML-Roadmap.git
+   cd ml-roadmap
+npm install 
+npm run dev
+```
+
+To view in your browser:
+```bash
+ http://localhost:5173 
+```
